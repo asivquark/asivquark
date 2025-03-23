@@ -11,9 +11,9 @@ Compartir, enseñar, colaborar, educar, guiar, mentorizar y, sobretodo, incluir,
 | ***  | ***  |
 |---|---|
 | Kotlin  | TDD  |
-| Java  | Clean Code  |
 | Android  | KMP  |
 | Spring  | Kafka  |
+| Java  | Clean Code  |
 | Docker  | Arq. Hexagonal  |
 | Microservicios  | Patrones de diseño  |
 | Rx  | Reactor  |
